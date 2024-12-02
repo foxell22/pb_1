@@ -14,7 +14,12 @@
 ///
 void KarelProgram() {
 /// @todo Добавить программу для Карела
+Move();
+TurnLeft();
+PickBeeper();
 
+FrontIsClear();
+BeepersPresent();
 }
 
 
